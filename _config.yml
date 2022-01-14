@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+name: Huihang Wu
+url: "http://wuhuihang.github.io"
+markdown: kramdown
+highlighter: rouge
